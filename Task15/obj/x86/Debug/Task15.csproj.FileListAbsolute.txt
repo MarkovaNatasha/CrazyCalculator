@@ -1,0 +1,11 @@
+D:\NaTaLi\Книги\bionic university\Task15\Task15\bin\Debug\Task15.exe
+D:\NaTaLi\Книги\bionic university\Task15\Task15\bin\Debug\Task15.pdb
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\View\MainWindow.baml
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\View\MainWindow.g.cs
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\App.g.cs
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\Task15_MarkupCompile.cache
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\Task15.g.resources
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\Task15.Properties.Resources.resources
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\Task15.csproj.GenerateResource.Cache
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\Task15.exe
+D:\NaTaLi\Книги\bionic university\Task15\Task15\obj\x86\Debug\Task15.pdb
